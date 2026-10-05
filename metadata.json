@@ -1,0 +1,6 @@
+{
+  "name": "Govt Exam Photo & Signature Resizer",
+  "description": "Ultra-fast online photo and signature resizer & compressor for SSC, UPSC, IBPS, State PSC, and Railway government exams. 100% private client-side processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
